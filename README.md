@@ -1,4 +1,4 @@
-## Hi there 👋
+## Projeto realizado pelos estudantes Dhavi Augusto Valentim, Gabriel Lima dos Reis, João Victor Neves Oliveira Sobreira, Murilo Teodoro Lopes Reis e Pedro Henrique Gomes Rodrigues, com orientação da prof. Cristiane Aparecida Lana e o coorientador Carlos Henrique Brumatti.
 
 <!--
 **Demoduladores/Demoduladores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
